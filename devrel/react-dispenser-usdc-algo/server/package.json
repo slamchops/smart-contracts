@@ -16,7 +16,7 @@
     "nodemon": "^1.18.9"
   },
   "dependencies": {
-    "algosdk": "^1.8.1",
+    "algosdk": "^1.23.1",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "express": "^4.16.4",
